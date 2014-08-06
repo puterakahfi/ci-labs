@@ -42,7 +42,7 @@
             <p>If you feel like you can contribute either by <a href="https://trello.com/b/I54dfqR4/bonfire-roadmap">adding features</a> or <a href="https://github.com/ci-bonfire/Bonfire/issues?state=open">fixing issues</a> please fork <a href="https://github.com/ci-bonfire/Bonfire">the repo</a>, start your work in a new branch, and submit pull requests for review.</p>
             <p><em>"Let's make this the best kick-start to any CodeIgniter project."</em> ~ The CI-Bonfire Team</p>
             <div class="continue">
-                <a class="btn btn-primary" href="<?= $install_url ?>">Continue &raquo;</a>
+                <a class="btn btn-primary" href="<?php echo  $install_url ?>">Continue &raquo;</a>
             </div>
         </div>
 
