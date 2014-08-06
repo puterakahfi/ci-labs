@@ -1,4 +1,4 @@
 ci-labs
 =======
 
-CI labs adalah sebuah cms yang di buat dengan menggunakan codeigniter framework
+CI labs adalah sebuah cms yang di buat dengan menggunakan cibonfire 
