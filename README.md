@@ -1,4 +1,8 @@
 ci-labs
 =======
 
-CI labs adalah sebuah cms yang di buat dengan menggunakan cibonfire 
+Codeigniter Starter Kit
+
+- admin lte  
+- roles
+- 
