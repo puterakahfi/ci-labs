@@ -1,5 +1,5 @@
 {
     "require": {
-        "kriswallsmith/buzz": "*"
+        "twig/twig": "1.16.*@dev"
     }
 }
