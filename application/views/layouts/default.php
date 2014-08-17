@@ -6,7 +6,7 @@
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- bootstrap 3.0.2 -->
     <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
-    
+
     <link href="<?php echo base_url('assets/lte/css/bootstrap.min.css'); ?>" rel="stylesheet" type="text/css" />
     <!-- font Awesome -->
     <link href="<?php echo base_url('assets/lte/css/font-awesome.min.css');?>" rel="stylesheet" type="text/css" />
@@ -313,8 +313,8 @@
                                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
                             </a>
                         </li>
-                        
-                        
+
+
 
                         <li class="treeview">
                             <a href="#">
@@ -324,7 +324,11 @@
                             </a>
                             <ul class="treeview-menu">
                                 <li><a href="pages/charts/morris.html"><i class="fa fa-angle-double-right"></i> Form Generator</a></li>
+                                <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Module Generator</a></li>
                                 <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> CRUD Generator</a></li>
+                                <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> WYSWYG</a></li>
+                                <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Multiple Uploader</a></li>
+                            
                             </ul>
                         </li>
 
@@ -337,6 +341,7 @@
                             <ul class="treeview-menu">
                                 <li><a href="pages/charts/morris.html"><i class="fa fa-angle-double-right"></i> Users</a></li>
                                 <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Roles</a></li>
+                                <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Modules</a></li>
                             </ul>
                         </li>
                         <li class="treeview">
@@ -348,6 +353,17 @@
                             <ul class="treeview-menu">
                                 <li><a href="pages/charts/morris.html"><i class="fa fa-angle-double-right"></i> Email</a></li>
                                 <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Database</a></li>
+                            </ul>
+                        </li>
+                        <li class="treeview">
+                            <a href="#">
+                                <i class="fa fa-bar-chart-o"></i>
+                                <span>Modules Sample</span>
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </a>
+                            <ul class="treeview-menu">
+                                <li><a href="pages/charts/morris.html"><i class="fa fa-angle-double-right"></i> Gallery</a></li>
+                                <li><a href="pages/charts/flot.html"><i class="fa fa-angle-double-right"></i> Blog</a></li>
                             </ul>
                         </li>
                         <li>
